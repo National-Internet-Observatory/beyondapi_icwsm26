@@ -1,4 +1,4 @@
-# Beyond APIs: ICWSM 2025 Tutorial Website
+# Beyond APIs: ICWSM 2026 Tutorial Website
 
 This repository contains the website for the "Beyond APIs: Collecting Online Activity Data for Research using the National Internet Observatory" tutorial at ICWSM 2026.
 
